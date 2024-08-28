@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--Scarlett Duty
+Tue, 27 Aug 2024 23:25:30 GMT-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Scarlett's Space</title>
+
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/slicknav.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">    
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="js/jquery.slicknav.min.js"></script>
+    
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $('#nav_menu').slicknav({prependTo:"#mobile_menu"});
+    });
+    </script>
+</head>
+
+<body>
+    <nav id="mobile_menu"></nav>
+    <nav id = "nav_menu">
+        <ul>
+            <li><a href ="index.html" class = "current">Home</a></li>
+            <li><a href="pages/gallery.html">Gallery</a></li>
+            <li><a href="pages/media.html">Media</a></li>
+            <li><a href="pages/blog.html">Blog</a></li>
+            <li><a href="pages/contact.html">Contact</a></li>
+            </ul>
+    </nav>
+    <header>
+        <img src="images/Portrait.jpg" alt="Photograph of a person in a yellow bandana">
+        <div>
+            <h2>Scarlett's Space</h2>
+            <h3>A place to get to know me</h3>
+        </div> 
+    </header>
+    <main>
+        <section>
+            <h1>Hello! :3</h1>
+            <picture>
+                <source srcset="images/2024MTA-transparent.webp">
+                <img src="2024MTA-transparent.webp" alt="Illustration of a person in a chair">
+            </picture>
+
+            <p>Welcome to my website! Take a look around to learn more about me and my art. You'll find information about who I am, books I've read,
+                movies and TV shows I've watched, music I listen to, my original characters (OCs), and a gallery of my works.
+            </p>
+            <img src="buttons/under-construction.gif" id="construction">
+        </section>
+    </main>
+    <footer>
+        <p>Scarlett's Space &copy; 2024, Scarlett Duty</p>
+    </footer>
+</body>
+</html>
