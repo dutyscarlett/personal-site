@@ -152,13 +152,13 @@ table {
 
 figure {
     padding: 1em 4.25%;
-	width: 50%;
+	width: 100%;
 	min-width: 100px;
 	max-width: 500px;
 	margin: 0 auto;
-	border-color: white;
+	/*border-color: white;
 	border-style: solid;
-	border-width: 8px;
+	border-width: 8px;*/
 }
 
 figure img {
