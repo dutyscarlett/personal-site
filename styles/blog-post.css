@@ -125,6 +125,10 @@ section h1 {
 	/*font-family: 'Cantarell', sans-serif;*/
 }
 
+#subtitle {
+	margin: 1em 0;
+}
+
 section p {
     padding-bottom: 1.25em;
     line-height: 1.5em;
@@ -139,6 +143,17 @@ section img {
     padding: 0 4% 3em 3.75%;
 }
 
+section div img {
+	padding: 1em;
+}
+
+section div p {
+	width: 30%;
+}
+
+section div picture {
+	width: 30%;
+}
 
 
 footer {
