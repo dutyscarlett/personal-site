@@ -1,5 +1,5 @@
 /*---Scarlett Duty
-Tue, 27 Aug 2024 23:25:30 GMT*/
+Fri, 20 Sept 2024 18:15:02 GMT*/
 
 /* the reset selctor*/
 * {
@@ -114,6 +114,7 @@ main {
 
 section {
     padding: 2em 4% 2em 4%;
+	clear: both;
 }
 
 #back-button {
