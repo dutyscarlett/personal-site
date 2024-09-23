@@ -207,8 +207,7 @@ section p {
 	max-width: 280px;
     min-width: 100px;
 	padding: 0 2% 1em;
-	display: block;
-	margin: 0 auto;
+	margin: 0 1em;
 }
 
 #step-4 img {
