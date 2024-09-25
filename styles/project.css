@@ -195,19 +195,13 @@ section p {
 	justify-content: space-evenly;
 }
 
-#comp {
-	width: 200% !important; 
-	max-width: 350px !important;
-    min-width: 100px;
-}
-
 #step-3 img {
-	width: 100%;
-	object-fit: cover;
+	width: 90%;
 	max-width: 280px;
     min-width: 100px;
-	padding: 0 2% 1em;
-	margin: 0 1em;
+	display: block;
+	margin: 0 auto;
+	padding: 1em 2em;
 }
 
 #step-4 img {
