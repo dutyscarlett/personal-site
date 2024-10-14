@@ -246,6 +246,15 @@ section p {
 	justify-content: space-evenly;
 }
 
+#step-3-3 img {
+	width: 100%;
+	max-width: 700px;
+    min-width: 100px;
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 2em;
+}
+
 
 #left-col {
 	float: left;
