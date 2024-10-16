@@ -211,7 +211,6 @@ section p {
 	display: block;
 	margin: 0 auto;
 	padding-bottom: 2em;
-	padding-top: .5em;
 }
 
 #step-4 p {
@@ -223,8 +222,7 @@ section p {
 #step-4 a {
 	padding: 0 2% 1em;
 	display: block;
-	margin: 0 auto;
-	width: 100%;
+	margin: 0 auto .5em;
 }
 
 #step-3-1 img {
