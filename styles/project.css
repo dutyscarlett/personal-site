@@ -211,6 +211,7 @@ section p {
 	display: block;
 	margin: 0 auto;
 	padding-bottom: 2em;
+	padding-top: .5em;
 }
 
 #step-4 p {
