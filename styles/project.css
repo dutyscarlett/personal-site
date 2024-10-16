@@ -222,7 +222,7 @@ section p {
 #step-4 a {
 	padding: 0 2% 1em;
 	display: block;
-	margin: 0 auto .5em;
+	margin: 0 auto .5;
 }
 
 #step-3-1 img {
