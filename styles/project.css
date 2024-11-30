@@ -204,7 +204,7 @@ section p {
 	padding: 1em 2em;
 }
 
-#step-4 img {
+#step-4 img, #step-4 video {
 	width: 100%;
 	max-width: 700px;
     min-width: 100px;
